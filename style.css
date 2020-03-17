@@ -1,0 +1,48 @@
+@import url('');
+
+@font-face{
+	font-family:"Blocks-Bold";
+	src:url(Blocks-Bold.otf);
+	font-style: normal;
+}
+
+@font-face{
+	font-family:"Blocks-Medium";
+	src:url(Blocks-Medium.otf);
+	font-style: normal;
+}
+
+@font-face{
+	font-family:"Blocks-Regular";
+	src:url(Blocks-Regular.otf);
+	font-style: normal;
+}
+
+@font-face{
+	font-family:"Blocks-Light";
+	src:url(Blocks-Light.otf);
+	font-style: normal;
+}
+
+
+h1 {
+	font-family: 'Blocks-Bold';
+	padding: 1em;
+	color: rgba(0, 0, 255, 0.801);
+	font-size: 8em;
+}
+
+h2 {
+	font-family: 'Blocks-Medium';
+	padding: 1em;
+	color:  rgba(0,0,255,0.5);
+	font-size: 8em;
+}
+
+h3 {
+	font-family: 'Blocks-Light';
+	padding: 1em;
+	color: rgba(0, 0, 255, 0.801);
+	font-size: 8em;
+
+}
